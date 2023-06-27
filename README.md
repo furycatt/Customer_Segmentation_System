@@ -13,6 +13,10 @@ The Customer Segmentation System is an application that uses k-means clustering 
 5. Scikit-learn: The library used for implementing the k-means clustering algorithm.
 
 ## Steps of the Project:
+* Bullet list
+  * Nested bullet
+    * Sub-nested bullet etc
+* Bullet list item 2
 
 *_1. Importing the necessary libraries and files:_
 
