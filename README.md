@@ -13,26 +13,20 @@ The Customer Segmentation System is an application that uses k-means clustering 
 5. Scikit-learn: The library used for implementing the k-means clustering algorithm.
 
 ## Steps of the Project:
-* Bullet list
-  * Nested bullet
-    * Sub-nested bullet etc
-* Bullet list item 2
 
-* _1. Importing the necessary libraries and files:_
-  * 1.1. The google.colab and files libraries are imported to handle file uploads in the Google Colab environment.
- *1.2. The numpy, pandas, matplotlib, seaborn, and sklearn.cluster libraries are imported for data analysis, visualization, and clustering.
+* _Importing the necessary libraries and files:_
+  * The google.colab and files libraries are imported to handle file uploads in the Google Colab environment.
+  *The numpy, pandas, matplotlib, seaborn, and sklearn.cluster libraries are imported for data analysis, visualization, and clustering.
 
-_2. Uploading and loading the dataset:_
+*_Uploading and loading the dataset:_
+  *The files.upload() function is used to upload the Customers.csv file to Google Colab.
+  *The pd.read_csv() function is used to load the dataset into a Pandas DataFrame.
 
-2.1 The files.upload() function is used to upload the Customers.csv file to Google Colab.
-2.2 The pd.read_csv() function is used to load the dataset into a Pandas DataFrame.
-
-_3. Data exploration and preprocessing:_
-
-3.1. The head() function is used to display the first 5 rows of the dataset.
-3.2. The shape attribute is used to determine the number of rows and columns in the dataset.
-3.3 The info() function is used to obtain information about the dataset, such as the data types of columns and the presence of any missing values.
-3.4 The isnull().sum() function is used to check for missing values in the dataset.
+*_Data exploration and preprocessing:_
+  *The head() function is used to display the first 5 rows of the dataset.
+  *The shape attribute is used to determine the number of rows and columns in the dataset.
+  *The info() function is used to obtain information about the dataset, such as the data types of columns and the presence of any missing values.
+  *The isnull().sum() function is used to check for missing values in the dataset.
 
 _4. Feature selection and clustering:_
 
