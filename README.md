@@ -12,12 +12,12 @@ The Customer Segmentation System is an application that uses k-means clustering 
 4. Matplotlib and Seaborn: Utilized for data visualization and creating plots.
 5. Scikit-learn: The library used for implementing the k-means clustering algorithm.
 
-**Steps of the Project:**
+## Steps of the Project:
 
-_1. Importing the necessary libraries and files:_
+*_1. Importing the necessary libraries and files:_
 
- >1.1. The google.colab and files libraries are imported to handle file uploads in the Google Colab environment.
- >1.2. The numpy, pandas, matplotlib, seaborn, and sklearn.cluster libraries are imported for data analysis, visualization, and clustering.
+ *1.1. The google.colab and files libraries are imported to handle file uploads in the Google Colab environment.
+ *1.2. The numpy, pandas, matplotlib, seaborn, and sklearn.cluster libraries are imported for data analysis, visualization, and clustering.
 
 _2. Uploading and loading the dataset:_
 
