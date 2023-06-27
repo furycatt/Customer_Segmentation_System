@@ -1,6 +1,6 @@
 # Customer_Segmentation_System
 
-**## Project Description:**
+## ** Project Description:**
 
 The Customer Segmentation System is an application that uses k-means clustering to segment customers based on their annual income and spending score. The goal of this project is to group similar customers together to gain insights for targeted marketing strategies and personalized customer experiences.
 
