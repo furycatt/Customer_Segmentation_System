@@ -16,8 +16,8 @@ The Customer Segmentation System is an application that uses k-means clustering 
 
 _1. Importing the necessary libraries and files:_
 
- >The google.colab and files libraries are imported to handle file uploads in the Google Colab environment.
- >The numpy, pandas, matplotlib, seaborn, and sklearn.cluster libraries are imported for data analysis, visualization, and clustering.
+ >1.1. The google.colab and files libraries are imported to handle file uploads in the Google Colab environment.
+ >1.2. The numpy, pandas, matplotlib, seaborn, and sklearn.cluster libraries are imported for data analysis, visualization, and clustering.
 
 _2. Uploading and loading the dataset:_
 
